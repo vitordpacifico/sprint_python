@@ -1,7 +1,9 @@
 <h2>Membros do grupo:</h2>
 
 Victor Dias - RM558017
+
 Guilherme Abe - RM554743
+
 Gustavo Paulino - RM554779
 
 <h2>Instruções de uso do programa:</h2>
