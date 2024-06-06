@@ -14,3 +14,6 @@ Ter python 3.11 instalado em seu computador.
 
 <h2>Dependências:</h2>
 Somente o terminal de python é necessário para se rodar o projeto, nenhuma outra dependência é necessária para se executar este projeto.
+
+<h2>Vídeo demonstração do código</h2>
+https://youtu.be/5_BRkk9EGok
